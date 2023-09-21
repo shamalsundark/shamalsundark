@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shamal Sundar k</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FUg6cbVA1ZsMAAAAM%2Fdeveloper.gif&tbnid=rR3MSryGtM5oHM&vet=12ahUKEwi2t9jg5ruBAxU3m2MGHd4BCG8QMygJegQIARBR..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramador-gifs&docid=8ncQ6jFZk-BBJM&w=220&h=183&itg=1&q=animated%20coding%20gif&ved=2ahUKEwi2t9jg5ruBAxU3m2MGHd4BCG8QMygJegQIARBR" alt="shamalsundark" /> </p>
 
 - 💬 Ask me about **React,Node.js,HTML**
 
@@ -21,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamalsundark&show_icons=true&locale=en" alt="shamalsundark" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamalsundark&" alt="shamalsundark" /></p>
+
